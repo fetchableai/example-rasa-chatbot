@@ -1,0 +1,33 @@
+intents:
+- greet
+- goodbye
+- request_joke
+- request_quote
+- request_fun_fact
+- request_word_definition
+- request_trivia
+
+entities:
+- word
+- entity
+- attribute
+
+
+actions:
+- utter_hello
+- utter_goodbye
+- action_fetch_joke
+- action_fetch_quote
+- action_fetch_fun_fact
+- action_fetch_word_definition
+- action_fetch_trivia
+
+
+templates:
+  utter_hello:
+  - text: "Hello. What would you like to know?"
+  - text: "Hi there, ask me a question."
+
+  utter_goodbye:
+  - text: "good bye"
+  - text: "good bye, hope to see you again"
