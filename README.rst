@@ -2,7 +2,7 @@
 Fetchable: Example Rasa Chatbot
 ===============================
 
-This repository contains the code for the tutorial over at `Medium <https://medium.com/p/2f61e5dfebe8>`_. The tutorial covers how to make a chabot which can answer questions from users through the command line, much like Amazon Alexa or Google Assistant. `Rasa <https://rasa.com/>`_ is used as the conversational AI framework and `Fetchable <https://fetchable.ai>`_ is used as the source of information.
+This repository contains the code for the tutorial over at `Medium <https://medium.com/fetchable/how-to-build-a-question-answering-chatbot-with-fetchable-and-rasa-2f61e5dfebe8>`_. The tutorial covers how to make a chabot which can answer questions from users through the command line, much like Amazon Alexa or Google Assistant. `Rasa <https://rasa.com/>`_ is used as the conversational AI framework and `Fetchable <https://fetchable.ai>`_ is used as the source of information.
 
 Some of the code was omitted in the tutorial for brevity, but is included here.
 
